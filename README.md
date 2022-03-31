@@ -1,2 +1,2 @@
 # WIYN-data
-Code for WIYN models 
+Code for WIYN plots and NED redshift verification 
